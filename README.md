@@ -35,7 +35,7 @@ struct Node {
 
 ## 🚀 Como executar o projeto
 
-## Opção 1: Compilador Online (Recomendado para testes rápidos)
+### Opção 1: Compilador Online (Recomendado para testes rápidos)
 
 * Acesse o OnlineGDB.
 * Selecione a linguagem C.
@@ -50,7 +50,7 @@ Pré-requisitos: Ter o compilador GCC instalado.
 $ git clone https://github.com/Paollax/Lista_Encadeada
 
 # 2. Acesse a pasta do projeto
-$ cd nome-do-repositorio
+$ cd lista_encadeada
 
 # 3. Compile o código
 $ gcc main.c -o lista_encadeada
