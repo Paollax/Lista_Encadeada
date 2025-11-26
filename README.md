@@ -35,14 +35,14 @@ struct Node {
 
 ## 🚀 Como executar o projeto
 
-### Opção 1: Compilador Online (Recomendado para testes rápidos)
+## Opção 1: Compilador Online (Recomendado para testes rápidos)
 
 * Acesse o OnlineGDB.
 * Selecione a linguagem C.
 * Copie o código do arquivo main.c e cole no editor.
 * Clique em Run.
 
-### Opção 2: Rodando localmente (Linux/Mac ou Windows com GCC)
+## Opção 2: Rodando localmente (Linux/Mac ou Windows com GCC)
 Pré-requisitos: Ter o compilador GCC instalado.
 
 ```bash
@@ -56,7 +56,7 @@ $ cd lista_encadeada
 $ gcc main.c -o lista_encadeada
 
 # 4. Execute o programa
-# No Linux/Mac:
+$ No Linux/Mac:
 $ ./lista_encadeada
 
 # No Windows:
