@@ -47,7 +47,7 @@ Pré-requisitos: Ter o compilador GCC instalado.
 
 ```bash
 # 1. Clone este repositório
-$ git clone https://github.com/seu-usuario/nome-do-repositorio.git
+$ git clone https://github.com/Paollax/Lista_Encadeada
 
 # 2. Acesse a pasta do projeto
 $ cd nome-do-repositorio
