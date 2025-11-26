@@ -35,7 +35,7 @@ struct Node {
 
 ## 🚀 Como executar o projeto
 
-### Opção 1: Compilador Online (Recomendado para testes rápidos)
+## Opção 1: Compilador Online (Recomendado para testes rápidos)
 
 * Acesse o OnlineGDB.
 * Selecione a linguagem C.
